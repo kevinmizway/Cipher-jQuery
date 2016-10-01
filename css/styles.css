@@ -1,0 +1,15 @@
+/* Layout
+========================================================= */
+
+body {
+  padding-top: 70px;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+img {
+  height:200px;
+  width:200px,
+}
